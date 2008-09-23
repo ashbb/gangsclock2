@@ -36,6 +36,12 @@
   n: " 2"
   avatar: 
 - !ruby/struct:Gang 
+  name: George Thompson
+  utc_offset: " -5"
+  country: " USA"
+  n: " 3"
+  avatar: 
+- !ruby/struct:Gang 
   name: Jeff Hales
   utc_offset: " -5"
   country: " USA"
@@ -94,6 +100,12 @@
   utc_offset: " +2"
   country: " Italy"
   n: " 3"
+  avatar: 
+- !ruby/struct:Gang 
+  name: Raul Parolari
+  utc_offset: " -7"
+  country: " USA"
+  n: " 1"
   avatar: 
 - !ruby/struct:Gang 
   name: Roy Stannard
