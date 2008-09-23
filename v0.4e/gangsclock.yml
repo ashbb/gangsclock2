@@ -1,0 +1,145 @@
+--- 
+- !ruby/struct:Gang 
+  name: Raul Parolari
+  utc_offset: " -7"
+  country: " USA"
+  n: " 1"
+  avatar: 
+- !ruby/struct:Gang 
+  name: Courtney House
+  utc_offset: " -7"
+  country: " USA"
+  n: " 0"
+  avatar: 
+- !ruby/struct:Gang 
+  name: Jeff Hales
+  utc_offset: " -5"
+  country: " USA"
+  n: " 1"
+  avatar: 
+- !ruby/struct:Gang 
+  name: Jim Pryke
+  utc_offset: " -5"
+  country: " Canada"
+  n: " 2"
+  avatar: 
+- !ruby/struct:Gang 
+  name: George Thompson
+  utc_offset: " -5"
+  country: " USA"
+  n: " 3"
+  avatar: 
+- !ruby/struct:Gang 
+  name: Victor Goff
+  utc_offset: " -5"
+  country: " USA"
+  n: " 0"
+  avatar: 
+- !ruby/struct:Gang 
+  name: Anita Kuno
+  utc_offset: " -4"
+  country: " Canada"
+  n: " 0"
+  avatar: 
+- !ruby/struct:Gang 
+  name: jerry anning
+  utc_offset: " -4"
+  country: " USA"
+  n: " 1"
+  avatar: 
+- !ruby/struct:Gang 
+  name: Carlan Calazans
+  utc_offset: " -3"
+  country: " Brazil"
+  n: " 3"
+  avatar: 
+- !ruby/struct:Gang 
+  name: Willian Molinari
+  utc_offset: " -3"
+  country: " Brazil"
+  n: " 1"
+  avatar: 
+- !ruby/struct:Gang 
+  name: Brad Coish
+  utc_offset: " -3"
+  country: " Canada"
+  n: " 4"
+  avatar: 
+- !ruby/struct:Gang 
+  name: Marcos Ricardo
+  utc_offset: " -3"
+  country: " Brazil"
+  n: " 0"
+  avatar: 
+- !ruby/struct:Gang 
+  name: Leticia Figueira
+  utc_offset: " -3"
+  country: " Brazil"
+  n: " 2"
+  avatar: 
+- !ruby/struct:Gang 
+  name: utc
+  utc_offset: " 0"
+  country: " UTC/GMT"
+  n: " 0"
+  avatar: 
+- !ruby/struct:Gang 
+  name: Chris Porter
+  utc_offset: " +1"
+  country: " UK"
+  n: " 1"
+  avatar: 
+- !ruby/struct:Gang 
+  name: Jose Carlos Monteiro
+  utc_offset: " +1"
+  country: " Portugal"
+  n: " 0"
+  avatar: 
+- !ruby/struct:Gang 
+  name: Krzysztof Wicher
+  utc_offset: " +1"
+  country: " UK"
+  n: " 2"
+  avatar: 
+- !ruby/struct:Gang 
+  name: Peter Crawford
+  utc_offset: " +2"
+  country: " Italy"
+  n: " 3"
+  avatar: 
+- !ruby/struct:Gang 
+  name: Michael Uplawski
+  utc_offset: " +2"
+  country: " Germany"
+  n: " 0"
+  avatar: 
+- !ruby/struct:Gang 
+  name: Mareike Hybsier
+  utc_offset: " +2"
+  country: " Germany"
+  n: " 1"
+  avatar: 
+- !ruby/struct:Gang 
+  name: Daniel Kotowski
+  utc_offset: " +2"
+  country: " Poland"
+  n: " 2"
+  avatar: 
+- !ruby/struct:Gang 
+  name: Satish Talim
+  utc_offset: " +5.5"
+  country: " India"
+  n: " 0"
+  avatar: 
+- !ruby/struct:Gang 
+  name: Roy Stannard
+  utc_offset: " +7"
+  country: " Thailand"
+  n: " 0"
+  avatar: 
+- !ruby/struct:Gang 
+  name: Satoshi Asakawa
+  utc_offset: " +9"
+  country: " Japan"
+  n: " 0"
+  avatar: 
