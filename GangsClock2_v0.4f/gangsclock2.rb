@@ -1,4 +1,4 @@
-# RubyLearning.org Gangs Clock 2 v0.4e
+# RubyLearning.org Gangs Clock 2 v0.4f
 require 'yaml'
 require Dir.pwd + '/render'
 
@@ -37,7 +37,7 @@ class GangsClock < Shoes
     background gradient($color4, $color5)
     para link(strong('A'), :click => '/analog')
     
-    image(Dir.pwd + '/gcicon.png', :left => 230).click do
+    image(Dir.pwd + '/gcicon.png', :left => 225).click do
       $color4 = (tmp = ask_color('select background color1')) ? tmp : $color4
       $color5 = (tmp = ask_color('select background color2')) ? tmp : $color5
       $color6 = (tmp = ask_color('select message color')) ? tmp : $color6
@@ -67,4 +67,4 @@ class GangsClock < Shoes
   end
 end
 
-Shoes.app :title => 'Gangs Clock 2 v0.4e', :width => 270, :height => 625, :resizable => false
+Shoes.app :title => 'Gangs Clock 2 v0.4f', :width => 270, :height => 400

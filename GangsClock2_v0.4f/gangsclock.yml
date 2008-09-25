@@ -24,10 +24,10 @@
   n: " 2"
   avatar: 
 - !ruby/struct:Gang 
-  name: George Thompson
+  name: Felipe Ureta
   utc_offset: " -5"
-  country: " USA"
-  n: " 3"
+  country: " Ecuador"
+  n: " 4"
   avatar: 
 - !ruby/struct:Gang 
   name: Victor Goff
@@ -36,13 +36,19 @@
   n: " 0"
   avatar: 
 - !ruby/struct:Gang 
+  name: George Thompson
+  utc_offset: " -5"
+  country: " USA"
+  n: " 3"
+  avatar: 
+- !ruby/struct:Gang 
   name: Anita Kuno
   utc_offset: " -4"
   country: " Canada"
   n: " 0"
   avatar: 
 - !ruby/struct:Gang 
-  name: jerry anning
+  name: Jerry Anning
   utc_offset: " -4"
   country: " USA"
   n: " 1"
@@ -90,6 +96,12 @@
   n: " 1"
   avatar: 
 - !ruby/struct:Gang 
+  name: Sergio Silva
+  utc_offset: " +1"
+  country: " Portugal"
+  n: " 3"
+  avatar: 
+- !ruby/struct:Gang 
   name: Jose Carlos Monteiro
   utc_offset: " +1"
   country: " Portugal"
@@ -108,10 +120,10 @@
   n: " 3"
   avatar: 
 - !ruby/struct:Gang 
-  name: Michael Uplawski
+  name: Michele Garoche
   utc_offset: " +2"
-  country: " Germany"
-  n: " 0"
+  country: " France"
+  n: " 4"
   avatar: 
 - !ruby/struct:Gang 
   name: Mareike Hybsier
@@ -124,6 +136,12 @@
   utc_offset: " +2"
   country: " Poland"
   n: " 2"
+  avatar: 
+- !ruby/struct:Gang 
+  name: Michael Uplawski
+  utc_offset: " +2"
+  country: " Germany"
+  n: " 0"
   avatar: 
 - !ruby/struct:Gang 
   name: Satish Talim

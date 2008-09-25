@@ -10,7 +10,7 @@ module Render
     
     para link(strong('D'), :click => '/digital')
     
-    image(Dir.pwd + '/gcicon.png', :left => 230).click do
+    image(Dir.pwd + '/gcicon.png', :left => 225).click do
       $color1 = (tmp = ask_color('select background color1')) ? tmp : $color1 
       $color2 = (tmp = ask_color('select background color2')) ? tmp : $color2
       $color3 = (tmp = ask_color('select message color')) ? tmp : $color3

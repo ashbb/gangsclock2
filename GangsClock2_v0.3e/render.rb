@@ -1,11 +1,11 @@
 module Render
   def show_clock
     background gradient @color1, @color2
-    pos = [[125, 0], [157, 4], [187, 16], [213, 36], [233, 62], [245, 92],
-       [250, 125], [245, 157], [233, 187], [213, 213], [185, 233], [155, 243],
-       [123, 245], [92, 243], [62, 233], [36, 213], [16, 187], [3, 157],
-       [0, 122], [3, 92], [15, 62], [35, 36], [61, 16], [91, 4]]
-       
+    pos = [[150, 0], [188, 5], [225, 20], [256, 43], [279, 74], [294, 111], 
+          [300, 150], [294, 188], [279, 225], [256, 256], [225, 279], [188, 294], 
+          [150, 300], [111, 294], [75, 279], [43, 256], [20, 225], [5, 188], 
+          [0, 150], [5, 111], [20, 75], [43, 43], [74, 20], [111, 5]]
+          
     pos.each_with_index{|n, i| para strong(i), :left => n[0], :top=> n[1], :stroke => white}
     
     image(Dir.pwd + '/gcicon.png').click do
@@ -17,7 +17,8 @@ module Render
   end
   
   def position utc_offset, n
-    r = 100 - 20 * n
+    cr = 145
+    r = (cr - 20) - 20 * n
     t = Time.new.getgm + utc_offset.to_f * 3600
     h = t.hour
     m = t.min
@@ -25,20 +26,20 @@ module Render
     case h
       when 0..6
         radian = theta * Math::PI / 180.0
-        x = 125 + r * Math.sin(radian)
-        y = 125 - r * Math.cos(radian)
+        x = cr + r * Math.sin(radian)
+        y = cr - r * Math.cos(radian)
       when 7..12
         radian = (theta - 90.0) * Math::PI / 180.0
-        y = 125 + r * Math.sin(radian)
-        x = 125 + r * Math.cos(radian)
+        y = cr + r * Math.sin(radian)
+        x = cr + r * Math.cos(radian)
       when 13..18
         radian = (theta - 180.0) * Math::PI / 180.0
-        x = 125 - r * Math.sin(radian)
-        y = 125 + r * Math.cos(radian)
+        x = cr - r * Math.sin(radian)
+        y = cr + r * Math.cos(radian)
       when 19..24
         radian = (theta - 270.0) * Math::PI / 180.0
-        y = 125 - r * Math.sin(radian)
-        x = 125 - r * Math.cos(radian)
+        y = cr - r * Math.sin(radian)
+        x = cr - r * Math.cos(radian)
       else
     end
     return x.to_i, y.to_i
@@ -46,7 +47,9 @@ module Render
   
   def show_gangs
     @gangs.each do |g|
-      g.avatar.show.move *(position(g.utc_offset, g.n.to_i))
+      #g.avatar.show.move *(position(g.utc_offset, g.n.to_i))
+      x, y = position(g.utc_offset, g.n.to_i)
+      g.avatar.show.move x + 7, y + 7
       g.avatar.hover do
         @msg.replace strong(g.name, "\n", g.country, "\n", (Time.new.getgm + g.utc_offset.to_f * 3600).to_s[0..-13])
       end
