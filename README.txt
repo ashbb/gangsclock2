@@ -1,8 +1,7 @@
 Gangs Clock 2
 
-v0.3e
-- added new three members of Gang
-- resized the analog clock to reduce pics overlapping
+v0.3f
+- added click condition
 
 v0.4f
 - added new three members of Gang

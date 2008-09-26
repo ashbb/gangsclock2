@@ -55,6 +55,14 @@ module Render
       end
       g.avatar.leave do
         @msg.replace ''
+        @gangs.each{|e| e.avatar.show}
+        @big_pic.remove
+        @msg.move 90, 120
+      end
+      g.avatar.click do
+        @gangs.each{|e| e.avatar.hide}
+        @big_pic = image(Dir.pwd + '/b-' + g.name.split(' ').first.downcase + '.jpg', :left => 110, :top => 60)
+        @msg.move 90, 170
       end
     end
   end

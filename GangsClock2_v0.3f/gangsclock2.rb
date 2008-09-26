@@ -1,13 +1,14 @@
-# RubyLearning.org Gangs Clock 2 v0.3e
+# RubyLearning.org Gangs Clock 2 v0.3f
 require 'yaml'
 require Dir.pwd + '/render'
 
 ::Gang = Struct.new :name, :utc_offset, :country, :n, :avatar
 
-Shoes.app :title => 'Gangs Clock 2 v0.3e', :width => 320, :height => 320, :resizable => false do
+Shoes.app :title => 'Gangs Clock 2 v0.3f', :width => 320, :height => 320, :resizable => false do
   extend Render
   @gangs = YAML.load_file(Dir.pwd + '/gangsclock.yml')
   @color1, @color2, @color3 = darkblue, gold, maroon
+  @big_pic = ''
   
   def gangs_clock
     show_clock
