@@ -12,3 +12,6 @@ v0.4f
 todo lists:
 - merge v0.3 and v0.4
 - consider the way to change the clock size to smaller
+
+Change log:
+11th Oct: Replaced new avatar .jpg files
