@@ -54,32 +54,32 @@
   n: " 1"
   avatar: 
 - !ruby/struct:Gang 
-  name: Carlan Calazans
+  name: Brad Coish
   utc_offset: " -3"
+  country: " Canada"
+  n: " 0"
+  avatar: 
+- !ruby/struct:Gang 
+  name: Carlan Calazans
+  utc_offset: " -2"
   country: " Brazil"
   n: " 3"
   avatar: 
 - !ruby/struct:Gang 
   name: Willian Molinari
-  utc_offset: " -3"
+  utc_offset: " -2"
   country: " Brazil"
   n: " 1"
   avatar: 
 - !ruby/struct:Gang 
-  name: Brad Coish
-  utc_offset: " -3"
-  country: " Canada"
-  n: " 4"
-  avatar: 
-- !ruby/struct:Gang 
   name: Marcos Ricardo
-  utc_offset: " -3"
+  utc_offset: " -2"
   country: " Brazil"
   n: " 0"
   avatar: 
 - !ruby/struct:Gang 
   name: Leticia Figueira
-  utc_offset: " -3"
+  utc_offset: " -2"
   country: " Brazil"
   n: " 2"
   avatar: 

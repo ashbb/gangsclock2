@@ -14,4 +14,8 @@ todo lists:
 - consider the way to change the clock size to smaller
 
 Change log:
+25th Oct: Corrected Brazilian's time zone
 11th Oct: Replaced new avatar .jpg files
+
+Enjoy!
+ashbb
