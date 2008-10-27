@@ -1,0 +1,31 @@
+Gangs Clock 2
+=============
+
+v0.3f
+-----
+- added click condition
+
+v0.4f
+-----
+- added new three members of Gang
+- allowed changing the window size
+- didn't resize the analog clock yet (sorry, no enough time. xx-P)
+
+**screenshot**
+
+![GangsClock2_screenshot.png](http://github.com/ashbb/shoes_tutorial_html/tree/master%2FGangsClock2_screenshot.png?raw=true)
+
+
+todo lists
+----------
+- merge v0.3 and v0.4
+- consider the way to change the clock size to smaller
+
+Change log
+----------
+28th Oct: Uploaded a screenshot. <br>
+25th Oct: Corrected Brazilian's time zone <br>
+11th Oct: Replaced new avatar .jpg files <br>
+
+Enjoy! <br>
+ashbb
