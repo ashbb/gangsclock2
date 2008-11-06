@@ -3,10 +3,12 @@ Gangs Clock 2
 
 v0.3f
 -----
+- added new two members of Gang
 - added click condition
 
 v0.4f
 -----
+- stopped maintenance
 - added new three members of Gang
 - allowed changing the window size
 - didn't resize the analog clock yet (sorry, no enough time. xx-P)
@@ -23,6 +25,7 @@ todo lists
 
 Change log
 ----------
+07th Nov: Added new two members. Stopped maintenance of v0.4f.
 28th Oct: Uploaded a screenshot. <br>
 25th Oct: Corrected Brazilian's time zone <br>
 11th Oct: Replaced new avatar .jpg files <br>

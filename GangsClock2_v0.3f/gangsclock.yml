@@ -24,8 +24,14 @@
   n: " 1"
   avatar: 
 - !ruby/struct:Gang 
+  name: Christopher Bailey
+  utc_offset: " -6"
+  country: " USA"
+  n: " 5"
+  avatar: 
+- !ruby/struct:Gang 
   name: Courtney House
-  utc_offset: " -7"
+  utc_offset: " -8"
   country: " USA"
   n: " 0"
   avatar: 
@@ -37,19 +43,19 @@
   avatar: 
 - !ruby/struct:Gang 
   name: Felipe Ureta
-  utc_offset: " -5"
+  utc_offset: " -6"
   country: " Ecuador"
   n: " 4"
   avatar: 
 - !ruby/struct:Gang 
   name: George Thompson
-  utc_offset: " -5"
+  utc_offset: " -6"
   country: " USA"
   n: " 3"
   avatar: 
 - !ruby/struct:Gang 
   name: Jeff Hales
-  utc_offset: " -5"
+  utc_offset: " -6"
   country: " USA"
   n: " 1"
   avatar: 
@@ -61,7 +67,7 @@
   avatar: 
 - !ruby/struct:Gang 
   name: Jim Pryke
-  utc_offset: " -5"
+  utc_offset: " -6"
   country: " Canada"
   n: " 2"
   avatar: 
@@ -115,7 +121,7 @@
   avatar: 
 - !ruby/struct:Gang 
   name: Raul Parolari
-  utc_offset: " -7"
+  utc_offset: " -8"
   country: " USA"
   n: " 1"
   avatar: 
@@ -144,8 +150,14 @@
   n: " 3"
   avatar: 
 - !ruby/struct:Gang 
+  name: Takaaki Kato
+  utc_offset: " +9"
+  country: " Japan"
+  n: " 1"
+  avatar: 
+- !ruby/struct:Gang 
   name: Victor Goff
-  utc_offset: " -5"
+  utc_offset: " -6"
   country: " USA"
   n: " 0"
   avatar: 
