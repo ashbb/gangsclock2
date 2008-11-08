@@ -1,5 +1,11 @@
 --- 
 - !ruby/struct:Gang 
+  name: utc
+  utc_offset: " 0"
+  country: " UTC/GMT"
+  n: " 4"
+  avatar: 
+- !ruby/struct:Gang 
   name: Anita Kuno
   utc_offset: " -5"
   country: " Canada"
@@ -166,10 +172,4 @@
   utc_offset: " -2"
   country: " Brazil"
   n: " 1"
-  avatar: 
-- !ruby/struct:Gang 
-  name: utc
-  utc_offset: " 0"
-  country: " UTC/GMT"
-  n: " 5"
   avatar: 

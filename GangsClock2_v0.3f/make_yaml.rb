@@ -1,6 +1,7 @@
 require 'yaml'
 
 data =<<-EOS
+utc, 0, UTC/GMT, 4
 Anita Kuno, -5, Canada, 0
 Brad Coish, -4, Canada, 0
 Carlan Calazans, -2, Brazil, 3
@@ -29,7 +30,6 @@ Sergio Silva, 0, Portugal, 3
 Takaaki Kato, +9, Japan, 1
 Victor Goff, -6, USA, 0
 Willian Molinari, -2, Brazil, 1
-utc, 0, UTC/GMT, 5
 EOS
 
 Gang = Struct.new :name, :utc_offset, :country, :n, :avatar
