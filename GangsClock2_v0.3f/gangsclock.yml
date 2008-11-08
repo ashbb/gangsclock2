@@ -1,13 +1,13 @@
 --- 
 - !ruby/struct:Gang 
   name: Anita Kuno
-  utc_offset: " -4"
+  utc_offset: " -5"
   country: " Canada"
   n: " 0"
   avatar: 
 - !ruby/struct:Gang 
   name: Brad Coish
-  utc_offset: " -3"
+  utc_offset: " -4"
   country: " Canada"
   n: " 0"
   avatar: 
@@ -19,7 +19,7 @@
   avatar: 
 - !ruby/struct:Gang 
   name: Chris Porter
-  utc_offset: " +1"
+  utc_offset: " 0"
   country: " UK"
   n: " 1"
   avatar: 
@@ -37,7 +37,7 @@
   avatar: 
 - !ruby/struct:Gang 
   name: Daniel Kotowski
-  utc_offset: " +2"
+  utc_offset: " +1"
   country: " Poland"
   n: " 2"
   avatar: 
@@ -61,7 +61,7 @@
   avatar: 
 - !ruby/struct:Gang 
   name: Jerry Anning
-  utc_offset: " -4"
+  utc_offset: " -5"
   country: " USA"
   n: " 1"
   avatar: 
@@ -73,13 +73,13 @@
   avatar: 
 - !ruby/struct:Gang 
   name: Jose Carlos Monteiro
-  utc_offset: " +1"
+  utc_offset: " 0"
   country: " Portugal"
   n: " 0"
   avatar: 
 - !ruby/struct:Gang 
   name: Krzysztof Wicher
-  utc_offset: " +1"
+  utc_offset: " 0"
   country: " UK"
   n: " 2"
   avatar: 
@@ -97,25 +97,25 @@
   avatar: 
 - !ruby/struct:Gang 
   name: Mareike Hybsier
-  utc_offset: " +2"
+  utc_offset: " +1"
   country: " Germany"
   n: " 1"
   avatar: 
 - !ruby/struct:Gang 
   name: Michael Uplawski
-  utc_offset: " +2"
+  utc_offset: " +1"
   country: " Germany"
   n: " 0"
   avatar: 
 - !ruby/struct:Gang 
   name: Michele Garoche
-  utc_offset: " +2"
+  utc_offset: " +1"
   country: " France"
   n: " 4"
   avatar: 
 - !ruby/struct:Gang 
   name: Peter Crawford
-  utc_offset: " +2"
+  utc_offset: " +1"
   country: " Italy"
   n: " 3"
   avatar: 
@@ -145,7 +145,7 @@
   avatar: 
 - !ruby/struct:Gang 
   name: Sergio Silva
-  utc_offset: " +1"
+  utc_offset: " 0"
   country: " Portugal"
   n: " 3"
   avatar: 
@@ -171,5 +171,5 @@
   name: utc
   utc_offset: " 0"
   country: " UTC/GMT"
-  n: " 0"
+  n: " 5"
   avatar: 
