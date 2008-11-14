@@ -25,7 +25,7 @@ todo lists
 
 Change log
 ----------
-14th Nov: Updated some avatar pics.
+14th Nov: Updated some avatar pics. <br>
 08th Nov: Daylight saving time off. Changed the position of UTC's avatar <br>
 07th Nov: Added new two members. Stopped maintenance of v0.4f. <br>
 28th Oct: Uploaded a screenshot. <br>
