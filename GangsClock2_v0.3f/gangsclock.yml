@@ -96,6 +96,12 @@
   n: " 2"
   avatar: 
 - !ruby/struct:Gang 
+  name: Lowell V
+  utc_offset: " -8"
+  country: " USA"
+  n: " 2"
+  avatar: 
+- !ruby/struct:Gang 
   name: Marcos Ricardo
   utc_offset: " -2"
   country: " Brazil"

@@ -17,6 +17,7 @@ Jim Pryke, -6, Canada, 2
 Jose Carlos Monteiro, 0, Portugal, 0
 Krzysztof Wicher, 0, UK, 2
 Leticia Figueira, -2, Brazil, 2
+Lowell V, -8, USA, 2
 Marcos Ricardo, -2, Brazil, 0
 Mareike Hybsier, +1, Germany, 1
 Michael Uplawski, +1, Germany, 0
