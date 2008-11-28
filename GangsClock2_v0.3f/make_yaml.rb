@@ -20,6 +20,7 @@ Leticia Figueira, -2, Brazil, 2
 Lowell V, -8, USA, 2
 Marcos Ricardo, -2, Brazil, 0
 Mareike Hybsier, +1, Germany, 1
+Massimiliano Giroldi, -2, Brazil, 4
 Michael Uplawski, +1, Germany, 0
 Michele Garoche, +1, France, 4
 Peter Crawford, +1, Italy, 3

@@ -114,6 +114,12 @@
   n: " 1"
   avatar: 
 - !ruby/struct:Gang 
+  name: Massimiliano Giroldi
+  utc_offset: " -2"
+  country: " Brazil"
+  n: " 4"
+  avatar: 
+- !ruby/struct:Gang 
   name: Michael Uplawski
   utc_offset: " +1"
   country: " Germany"
