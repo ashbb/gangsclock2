@@ -26,6 +26,7 @@ Michele Garoche, +1, France, 4
 Peter Crawford, +1, Italy, 3
 Raul Parolari, -8, USA, 1
 Roy Stannard, +7, Thailand, 0
+Ryan Fraley, -5, USA, 2
 Satish Talim, +5.5, India, 0
 Satoshi Asakawa, +9, Japan, 0
 Sergio Silva, 0, Portugal, 3

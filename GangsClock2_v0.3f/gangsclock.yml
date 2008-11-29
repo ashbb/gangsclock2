@@ -150,6 +150,12 @@
   n: " 0"
   avatar: 
 - !ruby/struct:Gang 
+  name: Ryan Fraley
+  utc_offset: " -5"
+  country: " USA"
+  n: " 2"
+  avatar: 
+- !ruby/struct:Gang 
   name: Satish Talim
   utc_offset: " +5.5"
   country: " India"
