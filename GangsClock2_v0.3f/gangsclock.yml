@@ -33,7 +33,7 @@
   name: Christopher Bailey
   utc_offset: " -6"
   country: " USA"
-  n: " 5"
+  n: " 3"
   avatar: 
 - !ruby/struct:Gang 
   name: Courtney House
@@ -57,7 +57,7 @@
   name: George Thompson
   utc_offset: " -6"
   country: " USA"
-  n: " 3"
+  n: " 0"
   avatar: 
 - !ruby/struct:Gang 
   name: Jeff Hales
@@ -181,7 +181,7 @@
   avatar: 
 - !ruby/struct:Gang 
   name: Victor Goff
-  utc_offset: " -6"
+  utc_offset: " -7"
   country: " USA"
   n: " 0"
   avatar: 
