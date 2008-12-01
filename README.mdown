@@ -25,6 +25,7 @@ todo lists
 
 Change log
 ----------
+01st Dec: Fixed a bug for @big_pic in render.rb of v0.3f. <br>
 30th Nov: Edited some local time zone correctly. <br>
 28th Nov: Add new three members and updated an avatar pic. <br>
 14th Nov: Updated some avatar pics. <br>
