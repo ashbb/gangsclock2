@@ -6,14 +6,15 @@ Anita Kuno, -5, Canada, 0
 Brad Coish, -4, Canada, 0
 Carlan Calazans, -2, Brazil, 3
 Chris Porter, 0, UK, 1
-Christopher Bailey, -6, USA, 3
+Christopher Bailey, -6, USA, 2
 Courtney House, -8, USA, 0
 Daniel Kotowski, +1, Poland, 2
-Felipe Ureta, -6, Ecuador, 4
+Doug Sparling, -6, USA, 4
+Felipe Ureta, -6, Ecuador, 3
 George Thompson, -6, USA, 0
-Jeff Hales, -6, USA, 1
+Jeff Hales, -6, USA, 5
 Jerry Anning, -5, USA, 1
-Jim Pryke, -6, Canada, 2
+Jim Pryke, -6, Canada, 1
 Jose Carlos Monteiro, 0, Portugal, 0
 Krzysztof Wicher, 0, UK, 2
 Leticia Figueira, -2, Brazil, 2
