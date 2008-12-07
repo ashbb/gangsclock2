@@ -12,7 +12,7 @@ v0.4f
 
 **screenshot**
 
-![GangsClock2_screenshot.png](http://github.com/ashbb/gangsclock2/tree/master%2FGangsClock2_screenshot.png?raw=true)
+![GangsClock2_screenshot.png](http://github.com/ashbb/gangsclock2/tree/master/GangsClock2_screenshot.png)
 
 
 todo lists
