@@ -21,6 +21,7 @@ todo lists
 
 Change log
 ----------
+11th Dec: Welcome back, Ilian! <br>
 07th Dec: Welcome, Doug! <br>
 01st Dec: Fixed a bug for @big\_pic in render.rb of v0.3f. <br>
 30th Nov: Edited some local time zone correctly. <br>

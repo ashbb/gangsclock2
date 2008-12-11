@@ -66,6 +66,12 @@
   n: " 0"
   avatar: 
 - !ruby/struct:Gang 
+  name: Ilian Mitev
+  utc_offset: " +2"
+  country: " Bulgaria"
+  n: " 0"
+  avatar: 
+- !ruby/struct:Gang 
   name: Jeff Hales
   utc_offset: " -6"
   country: " USA"
@@ -102,7 +108,7 @@
   n: " 2"
   avatar: 
 - !ruby/struct:Gang 
-  name: Lowell V
+  name: Lowell Vizon
   utc_offset: " -8"
   country: " USA"
   n: " 2"

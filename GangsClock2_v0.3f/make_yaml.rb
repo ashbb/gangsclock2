@@ -12,13 +12,14 @@ Daniel Kotowski, +1, Poland, 2
 Doug Sparling, -6, USA, 4
 Felipe Ureta, -6, Ecuador, 3
 George Thompson, -6, USA, 0
+Ilian Mitev, +2, Bulgaria, 0
 Jeff Hales, -6, USA, 5
 Jerry Anning, -5, USA, 1
 Jim Pryke, -6, Canada, 1
 Jose Carlos Monteiro, 0, Portugal, 0
 Krzysztof Wicher, 0, UK, 2
 Leticia Figueira, -2, Brazil, 2
-Lowell V, -8, USA, 2
+Lowell Vizon, -8, USA, 2
 Marcos Ricardo, -2, Brazil, 0
 Mareike Hybsier, +1, Germany, 1
 Massimiliano Giroldi, -2, Brazil, 4
