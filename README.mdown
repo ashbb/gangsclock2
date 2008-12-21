@@ -2,7 +2,7 @@ Gangs Clock 2
 =============
 The Gang of RubyLearning.org. - A Boss, Patrons, Mentors, Asst. Teachers
 
-v0.3f
+v0.3g
 -----
 - continue maintenance
 
@@ -21,6 +21,7 @@ todo lists
 
 Change log
 ----------
+21th Dec: Released v0.3g that is added a launcher for CWoS <br>
 11th Dec: Welcome back, Ilian! <br>
 07th Dec: Welcome, Doug! <br>
 01st Dec: Fixed a bug for @big\_pic in render.rb of v0.3f. <br>

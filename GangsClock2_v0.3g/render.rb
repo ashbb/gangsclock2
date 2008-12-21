@@ -1,5 +1,8 @@
 module Render
   def show_clock
+    rect(0, 300, 50, 15).click do
+      Thread.new{system 'shoes CWoS_v0.4.shy'}
+    end
     background gradient @color1, @color2
     pos = [[150, 0], [188, 5], [225, 20], [256, 43], [279, 74], [294, 111], 
           [300, 150], [294, 188], [279, 225], [256, 256], [225, 279], [188, 294], 
@@ -14,6 +17,7 @@ module Render
       @color3 = (tmp = ask_color('select message color')) ? tmp : @color3
       clear{gangs_clock}
     end
+    para strong('CWoS'), :left => 0, :top => 300, :stroke => white
   end
   
   def position utc_offset, n
