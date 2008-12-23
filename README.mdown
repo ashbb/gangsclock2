@@ -21,6 +21,7 @@ todo lists
 
 Change log
 ----------
+23th Dec: Updated to CWoS_v0.4a.shy <br>
 21th Dec: Released v0.3g that is added a launcher for CWoS <br>
 11th Dec: Welcome back, Ilian! <br>
 07th Dec: Welcome, Doug! <br>

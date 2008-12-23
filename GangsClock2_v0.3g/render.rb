@@ -1,7 +1,7 @@
 module Render
   def show_clock
     rect(0, 300, 50, 15).click do
-      Thread.new{system 'shoes CWoS_v0.4.shy'}
+      Thread.new{system 'shoes CWoS_v0.4a.shy'}
     end
     background gradient @color1, @color2
     pos = [[150, 0], [188, 5], [225, 20], [256, 43], [279, 74], [294, 111], 
