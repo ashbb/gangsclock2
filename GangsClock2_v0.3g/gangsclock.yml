@@ -72,6 +72,12 @@
   n: " 0"
   avatar: 
 - !ruby/struct:Gang 
+  name: James Silberbauer
+  utc_offset: " +2"
+  country: " South Africa"
+  n: " 1"
+  avatar: 
+- !ruby/struct:Gang 
   name: Jeff Hales
   utc_offset: " -6"
   country: " USA"

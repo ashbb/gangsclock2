@@ -13,6 +13,7 @@ Doug Sparling, -6, USA, 4
 Felipe Ureta, -6, Ecuador, 3
 George Thompson, -6, USA, 0
 Ilian Mitev, +2, Bulgaria, 0
+James Silberbauer, +2, South Africa, 1
 Jeff Hales, -6, USA, 5
 Jerry Anning, -5, USA, 1
 Jim Pryke, -6, Canada, 1
