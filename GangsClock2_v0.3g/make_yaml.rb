@@ -12,6 +12,7 @@ Daniel Kotowski, +1, Poland, 2
 Doug Sparling, -6, USA, 4
 Felipe Ureta, -6, Ecuador, 3
 George Thompson, -6, USA, 0
+Ian Dees, -8, USA, 3
 Ilian Mitev, +2, Bulgaria, 0
 James Silberbauer, +2, South Africa, 1
 Jeff Hales, -6, USA, 5
@@ -33,6 +34,7 @@ Ryan Fraley, -5, USA, 2
 Satish Talim, +5.5, India, 0
 Satoshi Asakawa, +9, Japan, 0
 Sergio Silva, 0, Portugal, 3
+suman gurung, -5, USA, 3
 Takaaki Kato, +9, Japan, 1
 Victor Goff, -7, USA, 0
 Willian Molinari, -2, Brazil, 1

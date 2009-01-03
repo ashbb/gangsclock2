@@ -66,6 +66,12 @@
   n: " 0"
   avatar: 
 - !ruby/struct:Gang 
+  name: Ian Dees
+  utc_offset: " -8"
+  country: " USA"
+  n: " 3"
+  avatar: 
+- !ruby/struct:Gang 
   name: Ilian Mitev
   utc_offset: " +2"
   country: " Bulgaria"
@@ -189,6 +195,12 @@
   name: Sergio Silva
   utc_offset: " 0"
   country: " Portugal"
+  n: " 3"
+  avatar: 
+- !ruby/struct:Gang 
+  name: suman gurung
+  utc_offset: " -5"
+  country: " USA"
   n: " 3"
   avatar: 
 - !ruby/struct:Gang 
