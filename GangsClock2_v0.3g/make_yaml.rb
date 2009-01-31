@@ -26,6 +26,7 @@ Marcos Ricardo, -2, Brazil, 0
 Mareike Hybsier, +1, Germany, 1
 Massimiliano Giroldi, -2, Brazil, 4
 Michael Uplawski, +1, Germany, 0
+Michael_Kohl, +1, Austria, 5
 Michele Garoche, +1, France, 4
 Peter Crawford, +1, Italy, 3
 Raul Parolari, -8, USA, 1

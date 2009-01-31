@@ -150,6 +150,12 @@
   n: " 0"
   avatar: 
 - !ruby/struct:Gang 
+  name: Michael_Kohl
+  utc_offset: " +1"
+  country: " Austria"
+  n: " 5"
+  avatar: 
+- !ruby/struct:Gang 
   name: Michele Garoche
   utc_offset: " +1"
   country: " France"
