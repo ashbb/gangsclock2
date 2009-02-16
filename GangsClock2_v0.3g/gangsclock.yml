@@ -1,5 +1,11 @@
 --- 
 - !ruby/struct:Gang 
+  name: Ahmed Hazem
+  utc_offset: " +2"
+  country: " Egypt"
+  n: " 2"
+  avatar: 
+- !ruby/struct:Gang 
   name: Anita Kuno
   utc_offset: " -5"
   country: " Canada"
@@ -58,6 +64,12 @@
   utc_offset: " -6"
   country: " USA"
   n: " 0"
+  avatar: 
+- !ruby/struct:Gang 
+  name: Hector Sansores
+  utc_offset: " -6"
+  country: " Mexico"
+  n: " 6"
   avatar: 
 - !ruby/struct:Gang 
   name: Ian Dees

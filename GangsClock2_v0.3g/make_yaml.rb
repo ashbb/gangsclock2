@@ -1,6 +1,7 @@
 require 'yaml'
 
 data =<<-EOS
+Ahmed Hazem, +2, Egypt, 2
 Anita Kuno, -5, Canada, 0
 Brad Coish, -4, Canada, 0
 Carlan Calazans, -2, Brazil, 3
@@ -11,6 +12,7 @@ Daniel Kotowski, +1, Poland, 2
 Doug Sparling, -6, USA, 4
 Felipe Ureta, -6, Ecuador, 3
 George Thompson, -6, USA, 0
+Hector Sansores, -6, Mexico, 6
 Ian Dees, -8, USA, 3
 Ilian Mitev, +2, Bulgaria, 0
 James Silberbauer, +2, South Africa, 1
