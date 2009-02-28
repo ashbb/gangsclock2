@@ -48,6 +48,12 @@
   n: " 2"
   avatar: 
 - !ruby/struct:Gang 
+  name: Dave Lilley
+  utc_offset: " +13"
+  country: " New Zealand"
+  n: " 0"
+  avatar: 
+- !ruby/struct:Gang 
   name: Doug Sparling
   utc_offset: " -6"
   country: " USA"
