@@ -11,6 +11,7 @@ Courtney House, -8, USA, 0
 Daniel Kotowski, +1, Poland, 2
 Dave Lilley, +13, New Zealand, 0
 Doug Sparling, -6, USA, 4
+Dylan Clendenin, -8, USA, 4
 Felipe Ureta, -6, Ecuador, 3
 George Thompson, -6, USA, 0
 Hector Sansores, -6, Mexico, 6

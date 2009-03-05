@@ -60,6 +60,12 @@
   n: " 4"
   avatar: 
 - !ruby/struct:Gang 
+  name: Dylan Clendenin
+  utc_offset: " -8"
+  country: " USA"
+  n: " 4"
+  avatar: 
+- !ruby/struct:Gang 
   name: Felipe Ureta
   utc_offset: " -6"
   country: " Ecuador"
