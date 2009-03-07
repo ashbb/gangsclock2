@@ -6,6 +6,12 @@
   n: " 2"
   avatar: 
 - !ruby/struct:Gang 
+  name: Al Snow
+  utc_offset: " -5"
+  country: " USA"
+  n: " 4"
+  avatar: 
+- !ruby/struct:Gang 
   name: Anita Kuno
   utc_offset: " -5"
   country: " Canada"

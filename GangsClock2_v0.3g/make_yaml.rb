@@ -2,6 +2,7 @@ require 'yaml'
 
 data =<<-EOS
 Ahmed Hazem, +2, Egypt, 2
+Al Snow, -5, USA, 4
 Anita Kuno, -5, Canada, 0
 Brad Coish, -4, Canada, 0
 Carlan Calazans, -2, Brazil, 3
