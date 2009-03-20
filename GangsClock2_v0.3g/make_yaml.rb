@@ -30,8 +30,8 @@ Marcos Ricardo, -2, Brazil, 0
 Mareike Hybsier, +1, Germany, 1
 Massimiliano Giroldi, -2, Brazil, 4
 Michael Uplawski, +1, Germany, 0
-Michael_Kohl, +1, Austria, 5
 Michele Garoche, +1, France, 4
+Paul Harris, 0, UK, 5
 Peter Crawford, +1, Italy, 3
 Raul Parolari, -8, USA, 1
 Roy Stannard, +7, Thailand, 0
@@ -44,6 +44,7 @@ suman gurung, -5, USA, 3
 Takaaki Kato, +9, Japan, 1
 Victor Goff, -7, USA, 0
 Willian Molinari, -2, Brazil, 1
+Michael_Kohl, +1, Austria, 5
 EOS
 
 Gang = Struct.new :name, :utc_offset, :country, :n, :avatar

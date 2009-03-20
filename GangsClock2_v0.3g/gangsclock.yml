@@ -174,16 +174,16 @@
   n: " 0"
   avatar: 
 - !ruby/struct:Gang 
-  name: Michael_Kohl
-  utc_offset: " +1"
-  country: " Austria"
-  n: " 5"
-  avatar: 
-- !ruby/struct:Gang 
   name: Michele Garoche
   utc_offset: " +1"
   country: " France"
   n: " 4"
+  avatar: 
+- !ruby/struct:Gang 
+  name: Paul Harris
+  utc_offset: " 0"
+  country: " UK"
+  n: " 5"
   avatar: 
 - !ruby/struct:Gang 
   name: Peter Crawford
@@ -256,4 +256,10 @@
   utc_offset: " -2"
   country: " Brazil"
   n: " 1"
+  avatar: 
+- !ruby/struct:Gang 
+  name: Michael_Kohl
+  utc_offset: " +1"
+  country: " Austria"
+  n: " 5"
   avatar: 
