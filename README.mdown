@@ -2,9 +2,11 @@ Gangs Clock 2
 =============
 The Gang of RubyLearning.org. - A Boss, Patrons, Mentors, Asst. Teachers
 
+**Ended the maintenance of Gangs Clock 2. Launched [Gangs Clock 3](https://github.com/ashbb/gangsclock3/).**
+
 v0.3g
 -----
-- continue maintenance
+- stopped maintenance
 
 v0.4f
 -----
@@ -21,6 +23,7 @@ todo lists
 
 Change log
 ----------
+22th Mar: Ended the maintenance of Gangs Clock 2. <br>
 20th Mar: Welcome Paul! <br>
 15th Mar: Updated CWoS from v0.4b to v0.5 <br>
 06th Mar: Welcome back Al! <br>
