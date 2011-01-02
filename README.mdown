@@ -14,7 +14,7 @@ v0.4f
 
 Screenshot
 ----------
-![GangsClock2\_screenshot.png](http://github.com/ashbb/gangsclock2/raw/master/GangsClock2_screenshot.png)
+![GangsClock2\_screenshot.png](https://github.com/ashbb/gangsclock2/raw/master/GangsClock2_screenshot.png)
 
 todo lists
 ----------
